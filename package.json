@@ -1,0 +1,27 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "Node server with Monogodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sutej-pal/node-mongo-server.git"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "mongo"
+  ],
+  "author": "Sutej Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sutej-pal/node-mongo-server/issues"
+  },
+  "homepage": "https://github.com/sutej-pal/node-mongo-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
