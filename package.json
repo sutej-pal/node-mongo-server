@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/sutej-pal/node-mongo-server#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
